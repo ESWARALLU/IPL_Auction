@@ -7,7 +7,7 @@ from stack import priceStack
 n1=nl.head
 #print(nl.head.data.name)
 #print(nl.head.next.data.name)
-d={'Bowler':0,'Batsman':1,'All-Rounde1r':2,'Wicketkeeper':3}
+d={'Bowler':0,'Batsman':1,'All-Rounder':2,'Wicketkeeper':3}
 
 nl.print_by_name('eswar')
 def findteam(t):
